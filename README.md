@@ -1,8 +1,8 @@
-# Sobre mim
+# ✨ Sobre mim
 
 Olá 👋 me chamo André e sou desenvolvedor Full-stack
 
-Tecnologias que domino:
+## 👨🏻‍💻 Tecnologias que domino:
 
 - HTML
 - CSS
@@ -12,5 +12,5 @@ Tecnologias que domino:
 - ReactJS
 - ExpressJS
 
-📧: demaiam@gmail.com
+📧: demaiam@gmail.com  
 🌐: in/andre-muller-dev
