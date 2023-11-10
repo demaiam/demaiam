@@ -1,6 +1,6 @@
 # ✨ Sobre mim
 
-Olá 👋 me chamo André e sou desenvolvedor Full-stack
+Olá 👋 me chamo André e sou desenvolvedor Full-Stack. Estou em busca de oportunidades para aplicar meus conhecimentos e contribuir para projetos empolgantes. Meu objetivo é crescer como desenvolvedor, aprender com uma equipe talentosa e enfrentar desafios que impulsionem meu desenvolvimento profissional.
 
 ## 👨🏻‍💻 Tecnologias que domino:
 
@@ -14,3 +14,5 @@ Olá 👋 me chamo André e sou desenvolvedor Full-stack
 
 📧: demaiam@gmail.com  
 🌐: in/andre-muller-dev
+
+### Alguns projetos de que me orgulho:
