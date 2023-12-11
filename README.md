@@ -16,3 +16,8 @@ Olá 👋 me chamo André e sou desenvolvedor Full-Stack. Estou em busca de opor
 🌐: in/andre-muller-dev
 
 ### Alguns projetos de que me orgulho:
+
+#### Shortly
+Um aplicativo whitelabel encurtador de URL
+[Front-end](https://github.com/demaiam/shortly-front)
+[Back-end](https://github.com/demaiam/shortly-back)
